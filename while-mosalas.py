@@ -1,6 +1,6 @@
 # row = 1
 # n = int(input("rows: "))
-# while n:
+# while row <= n:
 #     print("*" * row)
 #     row+=1
 
